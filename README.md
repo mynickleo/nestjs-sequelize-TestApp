@@ -23,7 +23,7 @@
   id: 1,
   name: "Book",
   price: 1000,
-  authorId: 1
+  authorId?: 1
 }
 ```
 
@@ -32,7 +32,7 @@
 {
   id: 1,
   authorName: "Johnny",
-  bookId: 1
+  bookId?: 1
 }
 ```
 
